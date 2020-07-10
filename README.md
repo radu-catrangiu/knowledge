@@ -14,6 +14,7 @@
 
 ### Javascript Specifics
 * [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
+* [ES6 Javascript Tutorial For Beginners | ES6 Crash Course](https://www.youtube.com/watch?v=WZQc7RUAg18)
 
 ### Frontend Knowledge
 * [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
