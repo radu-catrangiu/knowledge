@@ -5,6 +5,7 @@
 * [Visual Studio Code Tutorial for Beginners - Introduction](https://www.youtube.com/watch?v=VqCgcpAypFQ)
 * [Insomnia REST Client Tutorial](https://www.youtube.com/watch?v=H16GUC9Svyk)
 * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI)
+* [Best Javascript Documentation - Mozilla MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### General knowledge
 * [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
