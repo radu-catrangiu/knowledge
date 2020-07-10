@@ -22,5 +22,11 @@
 ### Backend Knowledge
 * [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
+### Database Knowledge
+> **TODO:**  Add info about SQL vs No-SQL, MongoDB vs MySQL, Simple tutorials, maybe Redis
+
+### Deployment Knowledge
+> **TODO:** Add info and tutorials for Docker
+
 ### Testing
 * [JavaScript Testing Introduction Tutorial - Unit Tests, Integration Tests & e2e Tests](https://www.youtube.com/watch?v=r9HdJ8P6GQI)
