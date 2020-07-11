@@ -13,6 +13,7 @@
 * [Frontend vs Backend vs Fullstack Web Development - What should you learn?](https://www.youtube.com/watch?v=pkdgVYehiTE)
 * [Object-oriented Programming in 7 minutes | Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
 * [Functional, Procedural & Object-oriented Programming - An Overview](https://www.youtube.com/watch?v=aoE-92Ac4zE)
+* [Khan Academy Computing Courses](https://www.khanacademy.org/computing)
 
 ### Javascript Specifics
 * [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
